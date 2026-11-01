@@ -1,0 +1,6 @@
+{
+  "name": "ExecutiveResume Pro – AI CV Builder & LinkedIn Job Suite",
+  "description": "Build ATS-friendly executive resumes, generate professional PDFs automatically, optimize for LinkedIn 1-click job applications, and publish to App Store & Google Play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
